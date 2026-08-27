@@ -1,6 +1,6 @@
 # SW PIXERA Monitor
 
-Read-only status monitor for AV Stumpfl PIXERA live show playback, by [SEVENTHWELL](https://seventh-well.com).
+Read-only status monitor for AV Stumpfl PIXERA live show playback.
 
 A standalone tool that connects to a PIXERA server over LAN and puts a big, readable
 countdown on any screen in the room — laptop, tablet, or a spare monitor at FOH.
