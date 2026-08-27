@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.bat text eol=crlf working-tree-encoding=Shift_JIS
+*.cmd text eol=crlf working-tree-encoding=Shift_JIS
+*.command text eol=lf
+*.png binary
+*.jpg binary
